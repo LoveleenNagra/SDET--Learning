@@ -1,0 +1,24 @@
+{
+  "name": "sdet--learning",
+  "version": "1.0.0",
+  "description": "My journey from Manual Software Testing to SDET - Typescript,API Testing,Playwright and CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoveleenNagra/SDET--Learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LoveleenNagra/SDET--Learning/issues"
+  },
+  "homepage": "https://github.com/LoveleenNagra/SDET--Learning#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
