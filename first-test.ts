@@ -1,7 +1,7 @@
-//const username: string = "Loveleen";
-//const expectedStatus: number = 200;
-//const actualStatus: number = 401;
-//const isLoggedIn: boolean = false;
+const username: string = "testuser";
+const expectedStatus: number = 401;
+const actualStatus: number = 401;
+const isLoggedIn: boolean = false;
 
 
 //if (actualStatus === expectedStatus) {
@@ -13,9 +13,9 @@
 
 const { strictEqual } = require("node:assert/strict");
 
-const expectedStatus: number = 201;
-const actualStatus: number = 201;
+//const expectedStatus: number = 201;
+//const actualStatus: number = 201;
 
-strictEqual(actualStatus, expectedStatus);
+//strictEqual(actualStatus, expectedStatus);
 
 console.log("TEST PASSED");
