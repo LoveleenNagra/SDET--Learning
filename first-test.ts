@@ -4,11 +4,6 @@ const actualStatus: number = 401;
 const isLoggedIn: boolean = false;
 
 
-//if (actualStatus === expectedStatus) {
-//    console.log("TEST PASSED");
-///} else {
-//    console.log("TEST FAILED");
-//}
 
 
 const { strictEqual } = require("node:assert/strict");
